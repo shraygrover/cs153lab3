@@ -13,110 +13,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5aaf0392-b90d-4ba0-bccd-5373a4db3ff6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BUGS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRICKS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asm.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootasm.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bootmain.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/buf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/console.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/date.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/defs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dot-bochsrc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/echo.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/elf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entry.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/entryother.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exec.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fcntl.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forktest.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gdbutil" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/grep.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ide.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/init.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/initcode.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ioapic.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kalloc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kbd.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kbd.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kernel.ld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kill.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lapic.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ln.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ls.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memide.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/memlayout.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkdir.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mkfs.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mmu.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mp.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/param.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picirq.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pipe.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pr.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printf.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/printpcs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoff.list" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoff.spec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runoff1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sh.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/shm_cnt.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/show1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sign.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleep1.p" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleeplock.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sleeplock.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spinlock.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spinlock.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spinp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stat.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stressfs.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/string.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swtch.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/symlink.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/syscall.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/syscall.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sysfile.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sysproc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toc.ftr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/toc.hdr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trap.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/trapasm.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/traps.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/types.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uart.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ulib.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/umalloc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usertests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uspinlock.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uspinlock.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/usys.S" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors.pl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vm.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/x86.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zombie.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xv6/shm.c" beforeDir="false" afterPath="$PROJECT_DIR$/xv6/shm.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646891405637</updated>
-      <workItem from="1646891408003" duration="4783000" />
+      <workItem from="1646891408003" duration="5320000" />
     </task>
     <servers />
   </component>

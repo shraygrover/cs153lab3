@@ -77,7 +77,7 @@ int shm_open(int id, char **pointer) {
 int shm_close(int id) {
 //you write this too!
     int closed = 0;
-    struct proc* curproc = myproc();
+//    struct proc* curproc = myproc();
     int i;
     acquire(&(shm_table.lock));
     for (i = 0; i < 64; i++) {
@@ -91,7 +91,7 @@ int shm_close(int id) {
                 shm_table.shm_pages[i].id = 0;
 //                kfree(shm_table.shm_pages[i].frame);
                 shm_table.shm_pages[i].frame = 0;
-                mappages(curproc->pgdir, )
+//                mappages(curproc->pgdir, )
                 break;
             }
         }
