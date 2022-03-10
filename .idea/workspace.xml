@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5aaf0392-b90d-4ba0-bccd-5373a4db3ff6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BUGS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TRICKS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootmain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/console.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cuth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/date.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dot-bochsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/echo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entry.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/entryother.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fcntl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forktest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gdbutil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/init.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/initcode.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ioapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kbd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kernel.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kill.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ln.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/memlayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkdir.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mkfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/null.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/param.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/picirq.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pr.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/printpcs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoff.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoff.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runoff1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shm_cnt.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/show1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sign.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleep1.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleeplock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sleeplock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spinlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spinlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spinp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stressfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/string.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swtch.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/symlink.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/syscall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/syscall.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sysfile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sysproc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toc.ftr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toc.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trapasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/traps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/umalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usertests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uspinlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uspinlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usys.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zombie.c" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Lab3" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="Lab3" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="26BKBHs7mMz6C2OxN5UhmjWrTmg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="OCFindUsagesOptions.isSearchForTextOccurrences" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3alt/xv6" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5aaf0392-b90d-4ba0-bccd-5373a4db3ff6" name="Changes" comment="" />
+      <created>1646891405637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646891405637</updated>
+      <workItem from="1646891408003" duration="4783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
